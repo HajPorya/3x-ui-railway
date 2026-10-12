@@ -62,13 +62,13 @@ Railway یک VPS معمولی نیست و محدودیت‌های شبکه‌ا�
 ### 📦 نسخه
 
 ```text
-Sanaei 3X-UI v3.9.0
+Sanaei 3X-UI v3.8.5
 ```
 
 Docker Image:
 
 ```text
-ghcr.io/mhsanaei/3x-ui:v3.9.0
+ghcr.io/mhsanaei/3x-ui:v3.8.5
 ```
 
 ### 🔗 پروژه اصلی
@@ -139,13 +139,13 @@ This project is prepared primarily for running the **Sanaei 3X-UI web panel** on
 ## 📦 Version
 
 ```text
-Sanaei 3X-UI v3.9.0
+Sanaei 3X-UI v3.8.5
 ```
 
 Docker Image:
 
 ```text
-ghcr.io/mhsanaei/3x-ui:v3.9.0
+ghcr.io/mhsanaei/3x-ui:v3.8.5
 ```
 
 ## 🔗 Upstream Project
